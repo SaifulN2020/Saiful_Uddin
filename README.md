@@ -4,7 +4,6 @@
 # Framework: Spring, Flutter
 # Problem Solving Skill
 # Unit Testing
-#####Basic Knowledge of GitHub
+##### Basic Knowledge of GitHub
 
-.one
-. two
+
